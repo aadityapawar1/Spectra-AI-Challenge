@@ -1,0 +1,15 @@
+Summarize this article in three bullet points.
+Translate the following sentence to Spanish: "The weather is pleasant today."
+Explain the difference between RAM and ROM for a beginner.
+Write a polite email requesting a deadline extension.
+List five health benefits of regular exercise.
+Generate a grocery list for a vegetarian dinner for four.
+Classify the sentiment of this sentence: "The movie was delightful and engaging."
+Convert the following JSON to CSV with headers.
+Provide a short overview of Newton's three laws of motion.
+Draft a two-sentence product description for a wireless mouse.
+Extract the key dates from this announcement.
+Rephrase this sentence to sound more formal.
+Give me three potential titles for a blog post about time management.
+Summarize the key points of this meeting transcript.
+Generate five interview questions for a data analyst role.
